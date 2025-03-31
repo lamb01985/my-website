@@ -84,13 +84,10 @@
     font-family: 'Playfair Display', serif;
     font-size: 3rem;
     font-weight: 700;
-    color: #1a1a1a;
+    color: #abaaaa;
     margin-bottom: 0.5rem;
     letter-spacing: -0.5px;
     line-height: 1.2;
-    border-bottom: 2px solid #0077cc;
-    display: inline-block;
-    padding-bottom: 0.3rem;
 }
   
   header img {
