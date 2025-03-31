@@ -1,1 +1,1 @@
-This is the code for my basic website!
+This is the code for my (currently bare bones) personal website!
